@@ -1,0 +1,2 @@
+Hello Everyone.
+This project revolves around the Online sales data and the EDA done on it
